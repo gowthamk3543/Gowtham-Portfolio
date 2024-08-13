@@ -1,4 +1,4 @@
-const downloadCvButton = document.getElementById('download-cv');
+const downloadCvButton = document.getElementById('download-Resume-AWS&DevOps.pdf');
 
 downloadCvButton.addEventListener('click', () => {
   const cvLink = document.createElement('a');
